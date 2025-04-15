@@ -62,6 +62,9 @@ plt.show()
 ## PROGRAM WAVEFRONT
 ![image](https://github.com/user-attachments/assets/2c83de80-54e9-4ff6-9361-e1974fa226e8)
 
+## GRAPH
+![DC GRAPH FOR ASK](https://github.com/user-attachments/assets/f40896f5-ce76-4940-96d7-228098fcc1e7)
+
 
 
 ## RESULT
